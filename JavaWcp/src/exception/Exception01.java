@@ -20,5 +20,5 @@ public class Exception01 {
     }
     int result = a / b;
     System.out.println("計算結果" + result);
-}
+	}
 }
