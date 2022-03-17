@@ -16,6 +16,6 @@ public class Human04 {
 	}
 	
 	public void instanceMethodPrint() {
-		System.out.println("名前は" + name);
+		System.out.println("名前は" + this.name);
 	}
 }
