@@ -4,7 +4,6 @@ import extend.phone.Phone;
 
 public class FlyingPhone implements Phone, Flying {
 	private int time;
-	private String number;
 	
 	public FlyingPhone(int time) {
 		this.time = time;
